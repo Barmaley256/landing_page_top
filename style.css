@@ -33,3 +33,38 @@ header {
     color: #f9faf8;
     background-color: #1f2937;
 }
+
+.main {
+    display: flex;
+    max-width: 70vw;
+    margin: auto;
+    padding: 24px;
+    gap: 24px;
+    color: #f9faf8;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.main-img {
+    width: 640px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    flex-shrink: 3;
+}
+
+.background {
+    background-color: #1f2937;
+    padding: 52px;
+}
