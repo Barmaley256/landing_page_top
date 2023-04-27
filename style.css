@@ -185,3 +185,8 @@ h2 {
 .links {
     font-size: 18px;
 }
+
+.pic {
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
